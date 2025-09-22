@@ -48,7 +48,7 @@ All bookings are displayed in a neat table format for easy viewing.
 
 Clone the repository:
 
-git clone https://github.com/your-username/bus-reservation-system.git
+git clone https://github.com/DevloperDevansh/bus-reservation-system.git
 
 
 Open the project in any Java IDE (Eclipse, IntelliJ, VS Code)
